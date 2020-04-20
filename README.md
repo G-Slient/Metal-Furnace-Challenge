@@ -24,7 +24,7 @@ The unzipped folder will have the following files.
 2. Transforming the test feature values into train feaures, as there was a linear relation between the feature values.
 3. Xgb model trained on 80% of the train data and validation on 20% of the data.
 
-**Public rank**: 10
+**Public rank**: 10  
 **Private rank**: 1
 
 
